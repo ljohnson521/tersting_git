@@ -1,4 +1,4 @@
-# tersting_git
+# testing_git
 This is a practice repository
 # This is a big header
 ### This is a smaller header
