@@ -6,6 +6,7 @@ This is a practice repository
 [This is a link](http://codingnomads.co)
 
 -These are bullet points
+
 -These are bullet points
 
 **This is markdown**
